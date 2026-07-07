@@ -1,0 +1,18 @@
+# Banned Drugs Pipeline
+downloads/
+logs/
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.env
+*.pdf
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
