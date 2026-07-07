@@ -272,3 +272,4 @@ The database enforces a unique constraint on `(generic_name, dosage_form, streng
 
 This project is for educational and public health research purposes.
 # banned_medicine
+# banned_medicine
